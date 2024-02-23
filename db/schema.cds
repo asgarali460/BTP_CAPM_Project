@@ -24,4 +24,5 @@ entity Mitigations: managed {
 entity Impacts{
     ID: Integer;
     desc: String; 
+    own: String
 }
